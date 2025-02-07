@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rysekarlovic
-- 👀 I’m interested in Python and web development
-- 🌱 I’m currently learning Python, HTML, CSS, VB, C, JS, and C#
+- 👀 I'm a Front End Web Developer
+- 🌱 I’m currently learning Angular, and Node
 - 📫 How to reach me, email: rysekarlovic@gmail.con
 
 <!---
